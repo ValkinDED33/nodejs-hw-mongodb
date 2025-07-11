@@ -12,7 +12,7 @@ tags:
     description: Operation with contacts
 
 servers:
-  - url: https://1111111111
+  - url: https://nodejs-hw-mongodb-cxj1.onrender.com
 
 paths:
   /contacts/{id}:
