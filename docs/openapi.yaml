@@ -12,7 +12,7 @@ tags:
     description: Operation with contacts
 
 servers:
-  - url: https://hw7-swagger-sfd6.onrender.com
+  - url: https://nodejs-hw-mongodb-cxj1.onrender.com
 
 paths:
   /contacts/{id}:
